@@ -1,0 +1,35 @@
+/* div {
+    width: 900px;
+    font-size: 54px;
+    text-align: center;
+    margin: 100px auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+} */
+
+html, body {
+    height: 100%;
+}
+
+#background1 {
+    background: url(/IkeE/Bootcamp/PROJECTS/JSprojects/Project4/assets/background1.jpeg) center center no-repeat;
+    color: white;
+    height: 100%;
+    width: 100%;
+    text-transform: uppercase;
+    display: flex;
+    align-items:center;
+}
+
+#message {
+    width: 900px;
+    margin: 0 auto;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#message h1 {
+    font-size: 54px;
+}
